@@ -1,2 +1,6 @@
 # Network-Project
-Computer Network Project written in python language: Packet encapsulation (CSV &amp; Jupyter) and Wireshark analysis.
+## Project overview
+Computer Network Project written in python language: Packet encapsulation (CSV & Jupyter) and Wireshark analysis.
+##Team Members
+Liron Shustin
+Yuval Vaknin
